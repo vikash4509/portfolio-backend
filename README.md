@@ -23,9 +23,9 @@ The objective of the Portfolio Backend is to provide a secure and reliable serve
  ---
 
  ## Links
- -** GitHub Repository:** https://github.com/kpragati03/portfolio-backend.git
-
- **Live Demo:**
+ *GitHub Repository:* - https://github.com/vikash4509/portfolio-backend.git
+ 
+ *Live Demo:*
  ---
 
  
@@ -43,7 +43,7 @@ Clone the repository
 
 Bash
 
-git clone  https://github.com/kpragati03/portfolio-backend.git
+git clone  https://github.com/vikash4509/portfolio-backend.git
 
 cd portfolio-backend
 
@@ -112,9 +112,9 @@ json
 
 {
 
-  "name": "John Doe",
+  "name": "Vikash",
   
-  "email": "john.doe@example.com",
+  "email": "vikash@gmail.com",
   
   "message": "Hello, I am interested in collaborating with you!"
 
@@ -132,9 +132,9 @@ json
   
   "data": {
   
-    "_id": "650af2c72b0d3e00123abcd4",
-    "name": "John Doe",
-    "email": "john.doe@example.com",
+    "_id": "68d1920fa5a0800858266635",
+    "name": "Vikash",
+    "email": "vikash@gmail.com",
     "message": "Hello, I am interested in collaborating with you!",
     "createdAt": "2025-09-20T12:30:15.000Z"
     
