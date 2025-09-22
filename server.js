@@ -12,7 +12,7 @@ const PORT = process.env.PORT || 5000;
 // --- THIS IS THE CORRECT, FLEXIBLE CORS CONFIGURATION ---
 const allowedOrigins = [
   "http://localhost:5173",
-  "https://vikash-protfolio.netlify.app", // Your main production URL
+  "https://vikash-kumar-gupta-portfolio.netlify.app", // Your main production URL
   "https:\/\/[a-zA-Z0-9-]+--portfolio-frontend\.netlify\.app$/" // All Netlify preview URLs
 ];
 
